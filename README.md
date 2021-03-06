@@ -14,7 +14,7 @@ The Theater Outcomes By Launch Date sheet measures outcomes based on the month o
 This information was calculated by creating a pivot table to explore the outcomes of campaigns in the Theater category based on groupings of months of the year with the option to choose the year(s). This measurement did not originally allow for differentiation by country or subcategory, however these variables were added to expand upon understanding of outcomes. It appears that the patterns hold true across these other factors of analysis.  
 
 #### Visuals
-![Theater Outcomes By Launch Date](https://github.com/ghynox/Kickstarter-Analysis/blob/main/Outcomes%20Based%20On%20Launch%20Date.png)
+![Theater Outcomes By Launch Date](https://github.com/ghynox/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ###Outcomes Based On Goal
 
