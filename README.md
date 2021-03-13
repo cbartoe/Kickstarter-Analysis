@@ -16,7 +16,7 @@ This information was calculated by creating a pivot table to explore the outcome
 #### Visuals
 ![Theater Outcomes By Launch Date](https://github.com/ghynox/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-###Outcomes Based On Goal
+### Outcomes Based On Goal
 
 #### Explanation 
 The Outcomes Based On Goal sheet is designed to explore outcomes based on the amount of money requested for the target goal of campaigns in the Play subcategory. Many psychological factors influence when and how people will invest money in Kickstarter campaigns. One of these factors is the overall goal amount of a project. When measuring this data, we were able to see a clear pattern indicating that there are ideal value ranges to increase the probability of success. 
